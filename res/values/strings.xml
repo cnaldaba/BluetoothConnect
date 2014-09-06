@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">bluetoothConnect</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bluetoothTest">Bluetooth Test</string>
+    <string name="connectButton">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="logo">Bluetooth Logo</string>
+
+</resources>
